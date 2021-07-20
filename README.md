@@ -1,3 +1,14 @@
+# CodePen Clone
+A complete clone of the core functionality of popular text editor Codepen which supports HTML, CSS and JavaScript, which users
+can code and test their skill and the code remain persistent entirely in the browser, which is built on top
+of React and a popular library called Codemirror
+
+## Live @ https://mukul-nayak.github.io/codepen-clone/
+
+_____________________________________________________________________________________________________________________________________________________________________________
+
+
+<br> <br>
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
